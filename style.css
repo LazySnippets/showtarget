@@ -1,0 +1,15 @@
+/** 
+	change tgt to whatever class and id you use i.e. 'box', 'img' or 'map'
+*/
+
+.tgt {
+    display: none;
+}
+
+#tgt_0 {
+    display: block;
+}
+
+.tgt.fixed {
+    display: block !important;
+}
